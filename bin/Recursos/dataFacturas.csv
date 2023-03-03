@@ -1,0 +1,4 @@
+No.Factura;Nombre de Factura;Cédula;Apellido ;Nombre;Fecha Emision;Total Factura;Forma de Pago;Cédula Vendedor;Código Producto;Nombre Producto
+N-000;Factura de compra;750510133;Arias;Mario;22/02/2023;94.0;Efectivo;766565566;1234;Acer 23Pulgadas
+N-001;Factura de compra;711111111;Minuche;Damian;12/02/2023;299.99;Deposito;7789879789;1235;Astro  A50
+N-003;Factura de compra;0702321333;Dumaguala;Marco;2015-12-15;54.0;Efectivo;0704323213;2346;Teclado
